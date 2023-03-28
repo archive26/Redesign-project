@@ -15,6 +15,7 @@
 
 main 1, sub 3
 
+pc, mobile ,tablit(선택적)
 
 
 내가고른 리디자인 페이지 :아큐브 렌즈 
